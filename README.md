@@ -1,3 +1,6 @@
-a simple batchscript compiler for compiling c and cpp code to .exe using MingW for windows
+a simple batchscript compiler for compiling c and cpp code to .exe using MinGw for windows
 
-usage:  '''compiler.bat [code]'''
+Usage:  
+```
+compiler.bat [code.cpp or code.c]
+```
